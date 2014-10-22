@@ -1,0 +1,10 @@
+title: EPEL Salt Formula
+description: Salt formula for installing EPEL
+root_path: epel
+components:
+  - title: EPEL
+    description: EPEL
+    sls_path: epel
+
+pillar_defaults:
+  -
