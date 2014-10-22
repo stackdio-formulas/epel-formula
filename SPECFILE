@@ -6,5 +6,4 @@ components:
     description: EPEL
     sls_path: epel
 
-pillar_defaults:
-  -
+pillar_defaults: {}
